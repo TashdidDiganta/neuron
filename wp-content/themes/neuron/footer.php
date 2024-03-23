@@ -46,7 +46,7 @@
 		</footer>
 
 		<!-- preloader -->
-		<div id="loading">
+		<!-- <div id="loading">
 			<div id="loading-center">
 				<div id="loading-center-absolute">
 					<div class="object" id="object_four"></div>
@@ -55,6 +55,6 @@
 					<div class="object" id="object_one"></div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		<!-- main jQuery -->
